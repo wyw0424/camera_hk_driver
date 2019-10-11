@@ -1,0 +1,13 @@
+<launch>
+    <node pkg="camera" type="capture" name="capture9" output="screen" respawn="true" args="192.168.1.62 /camera9 talker9"/>
+    <node pkg="camera" type="capture" name="capture8" output="screen" respawn="true" args="192.168.1.73 /camera8 talker8"/>
+    <node pkg="camera" type="capture" name="capture7" output="screen" respawn="true" args="192.168.1.64 /camera7 talker7"/>
+      
+    <node pkg="camera" type="capture" name="capture6" output="screen" respawn="true" args="192.168.1.75 /camera6 talker6"/>
+    <node pkg="camera" type="capture" name="capture5" output="screen" respawn="true" args="192.168.1.60 /camera5 talker5"/>
+    <node pkg="camera" type="capture" name="capture4" output="screen" respawn="true" args="192.168.1.63 /camera4 talker4"/>
+            
+    <node pkg="camera" type="capture" name="capture3" output="screen" respawn="true" args="192.168.1.71 /camera3 talker3"/>
+    <node pkg="camera" type="capture" name="capture2" output="screen" respawn="true" args="192.168.1.61 /camera2 talker2"/>
+    <node pkg="camera" type="capture" name="capture1" output="screen" respawn="true" args="192.168.1.65 /camera1 talker1"/>
+</launch>

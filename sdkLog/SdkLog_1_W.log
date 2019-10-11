@@ -1,0 +1,8 @@
+[2016-11-29 18:11:37.158][INF] The COM:Core ver is 5.1.6.2, 2015_12_09. Async:1.
+[2016-11-29 18:11:37.158][INF] This hcnetsdk ver is 5.1.6.2 Ver 2015_12_09.
+[2016-11-29 18:11:37.158][INF] login dev 192.168.1.64:8000.
+[2016-11-29 18:11:37.581][INF] Private connect 192.168.1.64:8000 sock=36 this=0xe7141014 cmd=0x10000 port=36702
+[2016-11-29 18:11:37.581][INF] LogonDev1 in[192.168.1.64:8000]
+[2016-11-29 18:11:37.651][ERR] load[.//HCNetSDKCom/libHCPreview.so] failed
+[2016-11-29 18:11:37.651][ERR] Load COM:libHCPreview.so fail.
+[2016-11-29 18:11:37.651][ERR] Load and Init Com Error, ErroCode:[107]

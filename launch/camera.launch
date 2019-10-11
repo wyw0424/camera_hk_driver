@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="camera" type="capture" name="capture1" output="screen" respawn="true" args="192.168.1.64 /camera1 talker1"/>
+</launch>
